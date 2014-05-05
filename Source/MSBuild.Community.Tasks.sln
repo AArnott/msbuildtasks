@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30421.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E57396C8-69C1-45A3-B30A-3EFD0AE03EF6}"
 	ProjectSection(SolutionItems) = preProject
 		..\Documentation\DevelopersGuide.txt = ..\Documentation\DevelopersGuide.txt
@@ -52,6 +54,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{8840F549
 		..\Master-helper.proj = ..\Master-helper.proj
 		..\Master.proj = ..\Master.proj
 		..\Tools\MSBuild.psm1 = ..\Tools\MSBuild.psm1
+		..\MSBuild.Community.Tasks.nuspec = ..\MSBuild.Community.Tasks.nuspec
 		..\MSBuildTasks.nuspec = ..\MSBuildTasks.nuspec
 		..\MSBuildTasks.Project.nuspec = ..\MSBuildTasks.Project.nuspec
 		..\Tools\Uninstall.Project.ps1 = ..\Tools\Uninstall.Project.ps1
